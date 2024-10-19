@@ -1,4 +1,4 @@
-module github.com/pefish/go-interface
+module github.com/djpken/go-interface
 
 go 1.21
 
