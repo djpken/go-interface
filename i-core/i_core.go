@@ -4,9 +4,9 @@ import (
 	"io"
 	"net/http"
 
-	i_logger "github.com/pefish/go-interface/i-logger"
-	t_core "github.com/pefish/go-interface/t-core"
-	t_error "github.com/pefish/go-interface/t-error"
+	i_logger "github.com/djpken/go-interface/i-logger"
+	t_core "github.com/djpken/go-interface/t-core"
+	t_error "github.com/djpken/go-interface/t-error"
 )
 
 type IApi interface {

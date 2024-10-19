@@ -3,7 +3,7 @@ package i_logger
 import (
 	"fmt"
 
-	t_logger "github.com/pefish/go-interface/t-logger"
+	t_logger "github.com/djpken/go-interface/t-logger"
 )
 
 var DefaultLogger = DefaultLoggerType{}

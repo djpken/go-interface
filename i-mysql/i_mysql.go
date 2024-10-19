@@ -1,7 +1,7 @@
 package i_mysql
 
 import (
-	t_mysql "github.com/pefish/go-interface/t-mysql"
+	t_mysql "github.com/djpken/go-interface/t-mysql"
 )
 
 type IMysql interface {

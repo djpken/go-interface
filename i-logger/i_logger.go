@@ -1,6 +1,6 @@
 package i_logger
 
-import t_logger "github.com/pefish/go-interface/t-logger"
+import t_logger "github.com/djpken/go-interface/t-logger"
 
 type ILogger interface {
 	FormatOutput(args ...interface{}) string
